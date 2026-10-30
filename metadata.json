@@ -1,0 +1,6 @@
+{
+  "name": "Bombinhas Educa - Educação que Transforma",
+  "description": "Portal Institucional e Pedagógico da Secretaria Municipal de Educação de Bombinhas (SC), com acervo de pesquisa para a comunidade e Espaço Restrito do Professor com planejamentos e normativas pedagógicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
